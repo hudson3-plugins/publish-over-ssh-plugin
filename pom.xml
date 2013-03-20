@@ -100,9 +100,9 @@
     </dependencies>
 
     <scm>
-        <url>https://github.com/hudson3-plugins/publish-over-ssh</url>
-        <connection>scm:git:git://github.com/hudson3-plugins/publish-over-ssh.git</connection>
-        <developerConnection>scm:git:git@github.com:hudson3-plugins/publish-over-ssh.git</developerConnection>
+        <url>https://github.com/hudson3-plugins/publish-over-ssh-plugin</url>
+        <connection>scm:git:git://github.com/hudson3-plugins/publish-over-ssh-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:hudson3-plugins/publish-over-ssh-plugin.git</developerConnection>
     </scm>
     
     <issueManagement>
